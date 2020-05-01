@@ -64,6 +64,7 @@
 
 ![野火IM官方交流群](http://static.wildfirechat.cn/wildfirechat_official_group.jpeg)
 
+## [Aajachat](https://aapks.com/apk/aajachat/)
 
 ## 应用截图
 ![ios-demo1](http://static.wildfirechat.cn/android-deomo1.gif)
